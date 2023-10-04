@@ -1,7 +1,6 @@
-### Olá! Eu sou Kauã Vinicios 🙋🏾‍♂️
+### Olá! Eu sou Kauã Vinicios 
 
 <div>
-    <a href="http://beacons.ia/rafaballerini">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauavinicios&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauavinicios&layout=donut&theme=dracula"/>
 </div>
